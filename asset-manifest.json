@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pogoda/static/css/main.14f6d4f6.css",
+    "main.js": "/pogoda/static/js/main.7fe35891.js",
+    "static/media/OIP1.jpeg": "/pogoda/static/media/OIP1.27b2e30d758436c226fa.jpeg",
+    "static/media/OIP.jpeg": "/pogoda/static/media/OIP.0c07833db4653464a973.jpeg",
+    "index.html": "/pogoda/index.html",
+    "main.14f6d4f6.css.map": "/pogoda/static/css/main.14f6d4f6.css.map",
+    "main.7fe35891.js.map": "/pogoda/static/js/main.7fe35891.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14f6d4f6.css",
+    "static/js/main.7fe35891.js"
+  ]
+}
